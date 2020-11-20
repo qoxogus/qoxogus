@@ -1,5 +1,5 @@
 # 💻Back-End Developer💻[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqoxogus%2Fhit-counter)](https://hits.seeyoufarm.com)
-* 🏫Affiliation : Gwangju-SoftwareMiester-Highschool<img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" height="150px" width="300px">
+* 🏫Affiliation : Gwangju-SoftwareMiester-Highschool<img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right">
 * 💻 I’m currently learning WEB Back-End using Go ECHO.  
 * 📩 How to reach me -> E-mail and Instagram Direct    
 * ✉E-mail : <qoxogus0809@gmail.com>  

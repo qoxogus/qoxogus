@@ -4,6 +4,7 @@
 * 📩 How to reach me -> E-mail and Instagram Direct    
 * ✉E-mail : <qoxogus0809@gmail.com>  
 * ✉Instagram ID : tae_hyeon04  
+  
 ---  
 ![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)  
 ---  

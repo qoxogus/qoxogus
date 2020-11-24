@@ -7,7 +7,7 @@
 * ✉Instagram ID : tae_hyeon04 <a href="https://www.instagram.com/tae_hyeon04/">
     <img 
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://www.instagram.com/tae_hyeon04/"
-        style="height : auto; margin-left : 10px; margin-right : 10px; align="right"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px; align="right";/>
 </a>
 
 ![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)  

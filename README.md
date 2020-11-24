@@ -4,12 +4,12 @@
 * 📩 How to reach me -> E-mail and Instagram Direct Message   
 * ✉E-mail : <qoxogus0809@gmail.com> <a href="qoxogus0809@gmail.com">
     <img 
-        src="http://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&link=qoxogus0809@gmail.com"
+        src="http://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&link=qoxogus0809@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 * ✉Instagram ID : tae_hyeon04 <a href="https://www.instagram.com/tae_hyeon04/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/tae_hyeon04/"
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://www.instagram.com/tae_hyeon04/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 

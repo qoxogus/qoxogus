@@ -3,9 +3,10 @@
 * 💻 I’m currently learning WEB Back-End using Go ECHO.  
 * 📩 How to reach me -> E-mail and Instagram Direct Message   
 * ✉E-mail : <qoxogus0809@gmail.com>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qoxogus0809@gmail.com)](mailto:qoxogus0809@gmail.com) 
 * ✉Instagram ID : tae_hyeon04 <a href="https://www.instagram.com/tae_hyeon04/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://www.instagram.com/tae_hyeon04/"
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logoColor=white&link=https://www.instagram.com/tae_hyeon04/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 

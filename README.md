@@ -1,4 +1,4 @@
-# 💻Back-End Developer💻 <div align = center> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqoxogus%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%233580D3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+# 💻Back-End Developer💻 <div align = right> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqoxogus%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%233580D3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 * 🏫Affiliation : Gwangju-SoftwareMiester-Highschool<img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" width="250px">
 * 💻 I’m currently learning WEB Back-End using Go ECHO.  
 * 📩 How to reach me -> E-mail and Instagram Direct Message   

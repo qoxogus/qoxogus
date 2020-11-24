@@ -2,7 +2,11 @@
 * 🏫Affiliation : Gwangju-SoftwareMiester-Highschool<img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" width="250px">
 * 💻 I’m currently learning WEB Back-End using Go ECHO.  
 * 📩 How to reach me -> E-mail and Instagram Direct Message   
-* ✉E-mail : <qoxogus0809@gmail.com>  
+* ✉E-mail : <qoxogus0809@gmail.com> <a href="qoxogus0809@gmail.com">
+    <img 
+        src="http://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&link=qoxogus0809@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 * ✉Instagram ID : tae_hyeon04 <a href="https://www.instagram.com/tae_hyeon04/">
     <img 
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://www.instagram.com/tae_hyeon04/"

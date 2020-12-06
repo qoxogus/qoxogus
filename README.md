@@ -7,7 +7,7 @@
 * 📩 Instagram ID : tae_hyeon04 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tae_hyeon04/)](https://www.instagram.com/tae_hyeon04/)
 
 ![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoxogus&hide=c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoxogus&hide=c,java)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **qoxogus/qoxogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

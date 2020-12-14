@@ -1,6 +1,6 @@
 # 💻Junior Back-End Developer💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqoxogus%2Fhit-counter&count_bg=%23F106A5&title_bg=%2300FF74&icon=go.svg&icon_color=%233800FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * 🏫 Affiliation : Gwangju-SoftwareMiester-Highschool<img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" width="250px">
-* 🏦 The company I want to work for is Kakao Enterprise.  
+* 🏠 The company I want to work for is Kakao Enterprise.  
 * 💻 I’m currently learning WEB Back-End using Go ECHO.  
 * ✉ How to reach me -> E-mail and Instagram Direct Message   
 * 📩 E-mail : <qoxogus0809@gmail.com>

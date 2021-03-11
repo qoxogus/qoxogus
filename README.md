@@ -8,7 +8,7 @@
 * etc. : git
 
 
-### ✉ How to reach me -> E-mail and Instagram Direct Message   
+### ✉ How to contact me -> E-mail and Instagram Direct Message   
 * 📩 E-mail : <qoxogus0809@gmail.com>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qoxogus0809@gmail.com)](mailto:qoxogus0809@gmail.com)
 * 📩 Instagram ID : tae_hyeon04 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tae_hyeon04/)](https://www.instagram.com/tae_hyeon04/)

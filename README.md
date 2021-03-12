@@ -2,15 +2,15 @@
 * 🏫 Affiliation : Gwangju-SoftwareMiester-Highschool
 * 📝 My Velog : [![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@qoxogus)](https://velog.io/@qoxogus/)
 
-### ✨Me
-<a href = "https://www.rocketpunch.com/@b6829f9b"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![RoketPunch Badge](https://img.shields.io/badge/-RoketPunch-12B886?style=flat-square&link=https://www.rocketpunch.com/@b6829f9b)](https://www.rocketpunch.com/@b6829f9b)
-
 ### 📌 My Stack
 * Language : Go, JavaScript, Python, C, Java
 * Framework : Go(Echo, gin-gonic), Nodejs(express)
 * DataBase : MySQL, MongoDB, PostgreSQL
 * etc. : git
+
+### ✨Me
+<a href = "https://www.rocketpunch.com/@b6829f9b"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![RoketPunch Badge](https://img.shields.io/badge/-RoketPunch-12B886?style=flat-square&link=https://www.rocketpunch.com/@b6829f9b)](https://www.rocketpunch.com/@b6829f9b)
 
 ### ✉ How to contact me -> E-mail and Instagram Direct Message   
 * 📩 E-mail : <qoxogus0809@gmail.com>

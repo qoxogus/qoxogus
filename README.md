@@ -7,6 +7,7 @@
 * DataBase : MySQL, MongoDB, PostgreSQL
 * etc. : git
 
+[![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@qoxogus)](https://velog.io/@qoxogus/)
 
 ### ✉ How to contact me -> E-mail and Instagram Direct Message   
 * 📩 E-mail : <qoxogus0809@gmail.com>

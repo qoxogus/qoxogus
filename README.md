@@ -3,8 +3,8 @@
 * 📝 My Velog : [![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@qoxogus)](https://velog.io/@qoxogus/)
 
 ### ✨Me
-[![RoketPunch Badge](https://img.shields.io/badge/-RoketPunch-12B886?style=flat-square&link=https://www.rocketpunch.com/@b6829f9b)](https://www.rocketpunch.com/@b6829f9b)
 <a href = "https://www.rocketpunch.com/@b6829f9b"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![RoketPunch Badge](https://img.shields.io/badge/-RoketPunch-12B886?style=flat-square&link=https://www.rocketpunch.com/@b6829f9b)](https://www.rocketpunch.com/@b6829f9b)
 
 ### 📌 My Stack
 * Language : Go, JavaScript, Python, C, Java

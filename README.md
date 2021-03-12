@@ -1,13 +1,14 @@
+<center>
+
 # 💻Back-End Developer💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqoxogus%2Fhit-counter&count_bg=%23F106A5&title_bg=%2300FF74&icon=go.svg&icon_color=%233800FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * 🏫 Affiliation : Gwangju-SoftwareMiester-Highschool
+* 📝 My Velog : [![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@qoxogus)](https://velog.io/@qoxogus/)
 
-[![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@qoxogus)](https://velog.io/@qoxogus/)
 ### 📌 My Stack
 * Language : Go, JavaScript, Python, C, Java
 * Framework : Go(Echo, gin-gonic), Nodejs(express)
 * DataBase : MySQL, MongoDB, PostgreSQL
 * etc. : git
-
 
 ### ✉ How to contact me -> E-mail and Instagram Direct Message   
 * 📩 E-mail : <qoxogus0809@gmail.com>
@@ -16,3 +17,5 @@
 
 ![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoxogus&hide=c,java,html)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>

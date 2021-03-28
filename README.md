@@ -3,8 +3,8 @@
 
 ### 📌 My Stack
 * Language : Go, Java, JavaScript, Python, C
-* Framework : Go(Echo, gin-gonic), Nodejs(express)
-* DataBase : MySQL, PostgreSQL, MongoDB
+* Framework : Go(Echo, gin-gonic), Java(Spring-Boot), Nodejs(express)
+* DataBase : MySQL, PostgreSQL,  H2DB, MongoDB
 * etc. : git
 
 

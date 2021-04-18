@@ -2,9 +2,10 @@
 * 🏫 Affiliation : Gwangju-SoftwareMeister-Highschool  
 
 ### 📌 My Stack
-* Language : Go, Java, JavaScript, Python, C
-* Framework : Go(Echo, gin-gonic), Java(Spring-Boot), Nodejs(express)
+* Language : Java, Go, JavaScript, Python, C
+* Framework : Java(Spring-Boot), Go(gin-gonic, Echo), Nodejs(express)
 * DataBase : MySQL, PostgreSQL,  H2DB, MongoDB
+* DevOps : AWS EC2
 * etc. : git
 
 

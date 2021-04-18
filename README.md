@@ -21,5 +21,5 @@
 
 </p>
 
-![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)   
+![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoxogus&hide=c,html,javascript)](https://github.com/anuraghazra/github-readme-stats)

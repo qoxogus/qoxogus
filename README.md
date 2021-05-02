@@ -1,4 +1,4 @@
-# 💻Back-End Developer💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqoxogus%2Fhit-counter&count_bg=%23F106A5&title_bg=%2300FF74&icon=go.svg&icon_color=%233800FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 💻Server Developer💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqoxogus%2Fhit-counter&count_bg=%23F106A5&title_bg=%2300FF74&icon=go.svg&icon_color=%233800FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 * 🏫 Affiliation : Gwangju-SoftwareMeister-Highschool  
 
 ### 📌 My Stack

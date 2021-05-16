@@ -6,7 +6,7 @@
 * Framework : Java(Spring-Boot), Go(gin-gonic, Echo), Nodejs(express)
 * DataBase : MySQL, H2DB, PostgreSQL
 * DevOps : AWS (EC2, RDS)
-* etc. : git etc...
+* etc. : Git, Docker etc.
 
 
 
@@ -23,4 +23,4 @@
 </p>
 
 ![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoxogus&hide=c,html,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qoxogus&hide=c,html,javascript,css,dockerfile)](https://github.com/anuraghazra/github-readme-stats)

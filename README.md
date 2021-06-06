@@ -9,7 +9,6 @@
 * etc. : Git etc.
 
 
-<center>
 
 ### ✨Me
 
@@ -21,10 +20,11 @@
 <a href = "https://www.rocketpunch.com/@b6829f9b"><img src = "https://img.shields.io/badge/RocketPunch-blueviolet?style=for-the-badge&logo=RocketPunch&logoColor=white"/></a>
 
 ### 🚀 Portfolio
-<a href="https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375" target="_blank">
+<a href="https://www.notion.so/6d9009a9a24a45c18a7b71934471312f" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-</center>
+
+  
 </p>
 
 ![Baetaehyeon's github stats](https://github-readme-stats.vercel.app/api?username=qoxogus&show_icons=true)

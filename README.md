@@ -6,7 +6,7 @@
 * Framework : Java(Spring-Boot), Go(gin-gonic, Echo), Nodejs(express)
 * DataBase : MySQL, H2DB, PostgreSQL
 * DevOps : AWS (EC2, RDS), Docker
-* etc. : Git etc.
+* etc. : Git, JPA etc.
 
 
 

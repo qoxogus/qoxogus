@@ -8,6 +8,10 @@
 * DevOps : AWS (EC2, RDS), Docker
 * etc. : Git, JPA etc.
 
+### 🚀 Portfolio
+<a href="https://www.notion.so/6d9009a9a24a45c18a7b71934471312f" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
 
 
 ### ✨Me
@@ -19,10 +23,7 @@
 <a href = "https://www.linkedin.com/in/%ED%83%9C%ED%98%84-%EB%B0%B0-9799a6208/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.rocketpunch.com/@b6829f9b"><img src = "https://img.shields.io/badge/RocketPunch-blueviolet?style=for-the-badge&logo=RocketPunch&logoColor=white"/></a>
 
-### 🚀 Portfolio
-<a href="https://www.notion.so/6d9009a9a24a45c18a7b71934471312f" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
+
 
   
 </p>

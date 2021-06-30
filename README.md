@@ -5,7 +5,7 @@
 * Language : Java, Go, JavaScript
 * Framework : Java(Spring-Boot), Go(gin-gonic, Echo), Nodejs(express)
 * DataBase : MySQL, H2DB, PostgreSQL
-* DevOps : AWS (EC2, RDS), Docker, 나는 바보다
+* DevOps : AWS (EC2, RDS), Docker
 * etc. : Git, JPA etc.
 
 ### 🚀 Portfolio
